@@ -1,10 +1,4 @@
 <?php
-/*
-Plugin Name: Cloud Nine Web Analytics
-Description: A plugin to display analytics in the dashboard using the Cloud Nine Analytics API.
-Version: 1.1
-Author: Cloud Nine Web
-*/
 
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly.
